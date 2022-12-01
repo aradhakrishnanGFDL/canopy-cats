@@ -1,0 +1,17 @@
+project,institute,model,experiment_id,frequency,modeling_realm,mip_table,ensemble_member,grid_label,variable,temporal subset,version,path
+QBOi,NOAA-GFDL,GFDL-ESM4,QBOiExp1,mon,atmos,na,r1i1p1f1,gn,ta,198001-198412,na,/nbhome/a1r/qboi/test1/QBOiExp1/mon/ta/ta_mon_ESM4_QBOiExp1_r1i1p1f1_198001-198412.nc
+QBOi,NOAA-GFDL,GFDL-ESM4,QBOiExp1,mon,atmos,na,r1i1p1f1,gn,ta,198501-198912,na,/nbhome/a1r/qboi/test1/QBOiExp1/mon/ta/ta_mon_ESM4_QBOiExp1_r1i1p1f1_198501-198912.nc
+QBOi,NOAA-GFDL,GFDL-ESM4,QBOiExp1,mon,atmos,na,r1i1p1f1,gn,ta,199001-199412,na,/nbhome/a1r/qboi/test1/QBOiExp1/mon/ta/ta_mon_ESM4_QBOiExp1_r1i1p1f1_199001-199412.nc
+QBOi,NOAA-GFDL,GFDL-ESM4,QBOiExp1,mon,atmos,na,r1i1p1f1,gn,ta,199501-199912,na,/nbhome/a1r/qboi/test1/QBOiExp1/mon/ta/ta_mon_ESM4_QBOiExp1_r1i1p1f1_199501-199912.nc
+QBOi,NOAA-GFDL,GFDL-ESM4,QBOiExp1,mon,atmos,na,r1i1p1f1,gn,ta,200001-200412,na,/nbhome/a1r/qboi/test1/QBOiExp1/mon/ta/ta_mon_ESM4_QBOiExp1_r1i1p1f1_200001-200412.nc
+QBOi,NOAA-GFDL,GFDL-ESM4,QBOiExp1,mon,atmos,na,r1i1p1f1,gn,ta,200501-200912,na,/nbhome/a1r/qboi/test1/QBOiExp1/mon/ta/ta_mon_ESM4_QBOiExp1_r1i1p1f1_200501-200912.nc
+QBOi,NOAA-GFDL,GFDL-ESM4,QBOiExp1,mon,atmos,na,r1i1p1f1,gn,ta,201001-201412,na,/nbhome/a1r/qboi/test1/QBOiExp1/mon/ta/ta_mon_ESM4_QBOiExp1_r1i1p1f1_201001-201412.nc
+QBOi,NOAA-GFDL,GFDL-ESM4,QBOiExp1,mon,atmos,na,r1i1p1f1,gn,ta,201501-201912,na,/nbhome/a1r/qboi/test1/QBOiExp1/mon/ta/ta_mon_ESM4_QBOiExp1_r1i1p1f1_201501-201912.nc
+QBOi,NOAA-GFDL,GFDL-ESM4,QBOiExp1,mon,atmos,na,r1i1p1f1,gn,hus,198001-198412,na,/nbhome/a1r/qboi/test1/QBOiExp1/mon/hus/hus_mon_ESM4_QBOiExp1_r1i1p1f1_198001-198412.nc
+QBOi,NOAA-GFDL,GFDL-ESM4,QBOiExp1,mon,atmos,na,r1i1p1f1,gn,hus,198501-198912,na,/nbhome/a1r/qboi/test1/QBOiExp1/mon/hus/hus_mon_ESM4_QBOiExp1_r1i1p1f1_198501-198912.nc
+QBOi,NOAA-GFDL,GFDL-ESM4,QBOiExp1,mon,atmos,na,r1i1p1f1,gn,hus,199001-199412,na,/nbhome/a1r/qboi/test1/QBOiExp1/mon/hus/hus_mon_ESM4_QBOiExp1_r1i1p1f1_199001-199412.nc
+QBOi,NOAA-GFDL,GFDL-ESM4,QBOiExp1,mon,atmos,na,r1i1p1f1,gn,hus,199501-199912,na,/nbhome/a1r/qboi/test1/QBOiExp1/mon/hus/hus_mon_ESM4_QBOiExp1_r1i1p1f1_199501-199912.nc
+QBOi,NOAA-GFDL,GFDL-ESM4,QBOiExp1,mon,atmos,na,r1i1p1f1,gn,hus,200001-200412,na,/nbhome/a1r/qboi/test1/QBOiExp1/mon/hus/hus_mon_ESM4_QBOiExp1_r1i1p1f1_200001-200412.nc
+QBOi,NOAA-GFDL,GFDL-ESM4,QBOiExp1,mon,atmos,na,r1i1p1f1,gn,hus,200501-200912,na,/nbhome/a1r/qboi/test1/QBOiExp1/mon/hus/hus_mon_ESM4_QBOiExp1_r1i1p1f1_200501-200912.nc
+QBOi,NOAA-GFDL,GFDL-ESM4,QBOiExp1,mon,atmos,na,r1i1p1f1,gn,hus,201001-201412,na,/nbhome/a1r/qboi/test1/QBOiExp1/mon/hus/hus_mon_ESM4_QBOiExp1_r1i1p1f1_201001-201412.nc
+QBOi,NOAA-GFDL,GFDL-ESM4,QBOiExp1,mon,atmos,na,r1i1p1f1,gn,hus,201501-201912,na,/nbhome/a1r/qboi/test1/QBOiExp1/mon/hus/hus_mon_ESM4_QBOiExp1_r1i1p1f1_201501-201912.nc
