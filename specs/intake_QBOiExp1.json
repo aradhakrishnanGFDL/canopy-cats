@@ -2,7 +2,7 @@
   "esmcat_version": "0.1.0",
   "id": "intake-QBOiExp1",
   "description": "GFDL Canopy test catalog intake_QBOiExp1",
-  "catalog_file": "intake_QBOiExp1.csv",
+  "catalog_file": "../catalogs/intake_QBOiExp1.csv",
   "attributes": [ 
     {
       "column_name": "project",
