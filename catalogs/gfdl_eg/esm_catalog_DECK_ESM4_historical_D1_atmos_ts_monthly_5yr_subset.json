@@ -14,7 +14,7 @@
       "vocabulary": ""
     },
     {
-      "column_name": "realm",
+      "column_name": "modeling_realm",
       "vocabulary": ""
     },
     {
@@ -30,15 +30,7 @@
       "vocabulary": ""
     },
     {
-      "column_name": "source_type",
-      "vocabulary": ""
-    },
-    {
       "column_name": "experiment_id",
-      "vocabulary": ""
-    },
-    {
-      "column_name": "variant_label",
       "vocabulary": ""
     },
     {
@@ -55,14 +47,6 @@
     },
     {
       "column_name": "frequency",
-      "vocabulary": ""
-    },
-    {
-      "column_name": "variable",
-      "vocabulary": ""
-    },
-    {
-      "column_name": "file_name",
       "vocabulary": ""
     },
     {
@@ -83,7 +67,7 @@
       "frequency",
       "member_id",
       "modeling_realm",
-      "temporal_subset",
+      "variable_id",
       "chunk_freq"
     ],
     "aggregations": [
