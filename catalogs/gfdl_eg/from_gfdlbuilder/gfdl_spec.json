@@ -50,6 +50,18 @@
       "vocabulary": ""
     },
     {
+      "column_name": "cell_methods",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "platform",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "dimensions",
+      "vocabulary": ""
+    },
+    {
       "column_name": "path",
       "vocabulary": ""
     }
