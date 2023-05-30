@@ -50,6 +50,18 @@
       "vocabulary": ""
     },
     {
+      "column_name": "cell_methods",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "platform",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "dimensions",
+      "vocabulary": ""
+    },
+    {
       "column_name": "path",
       "vocabulary": ""
     }
@@ -88,8 +100,8 @@
     ]
   },
   "id": "esm_catalog_ESM4",
-  "description": null,
-  "title": null,
+  "description": "example",
+  "title": "esm_catalog_ESM4 example",
   "last_updated": "2023-05-07T16:35:52Z",
   "catalog_file": "esm_catalog_DECK_ESM4_historical_D1_atmos_ts_monthly_5yr_subset.csv"
 }
