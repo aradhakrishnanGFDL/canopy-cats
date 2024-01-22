@@ -2,6 +2,7 @@ Users are encouraged to contribute to this repository!
 When you contribute an example notebook, please add your authorship info to the notebook.
 Create your notebook in notebooks/ 
 Add the corresponding data catalogs to catalogs/gfdl_eg/
+Your notebook name and the catalog name prefixes may be the same if you're adding a newer version of the catalogs
 
 
 Your contribution of any form will be recognized. Thank you
