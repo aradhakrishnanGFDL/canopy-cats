@@ -5,6 +5,7 @@ Users are encouraged to contribute to this repository!
 When you contribute an example notebook, please add your authorship info to the notebook.
 Create your notebook in notebooks/ 
 Add the corresponding data catalogs to catalogs/gfdl_eg/
+Check out https://github.com/aradhakrishnanGFDL/canopy-cats/CONTRIBUTING
 
 https://github.com/aradhakrishnanGFDL/intake-mdtf-demo has an example binder that you may run and see to visualize the steps involved in intake by running a live 
 analysis.
