@@ -13,4 +13,5 @@ Other examples
 
 https://github.com/aradhakrishnanGFDL/MDTF-diagnostics/blob/POD_catalog_notebook_demo/diagnostics/example_multicase/example_multirun_demo.ipynb
 
+https://github.com/aradhakrishnanGFDL/gfdl-aws-analysis/tree/community/examples
 
